@@ -34,3 +34,5 @@
 - [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault)
 
 - [Vector clock](https://en.wikipedia.org/wiki/Vector_clock)
+
+-[baseds: Exploring the basics of distributed systems](https://medium.com/baseds)
